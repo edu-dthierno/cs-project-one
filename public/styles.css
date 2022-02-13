@@ -20,7 +20,7 @@
 body {
   display: grid;
   row-gap: 45px;
-  grid-template-rows: 65px auto 80px;
+  grid-template-rows: 65px auto 90px;
 }
 .bold {
   color: rgb(38, 0, 255);
@@ -50,7 +50,7 @@ button {
 /* Réseaux Sociaux */
 .parent {
   width: 100px;
-  height: 7400px;
+  height: 7500px;
 
   position: absolute;
   top: 36%;
